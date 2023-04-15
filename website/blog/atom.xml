@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://test.korzh.com/</id>
+    <id>https://test.korzh.com/blog/</id>
     <title>Blog Korzh.com Blog</title>
     <updated>2023-04-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://test.korzh.com/"/>
+    <link rel="alternate" href="https://test.korzh.com/blog/"/>
     <subtitle>Blog Korzh.com Blog</subtitle>
-    <icon>https://test.korzh.com/img/favicon.ico</icon>
+    <icon>https://test.korzh.com/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://test.korzh.com/Welcome</id>
-        <link href="https://test.korzh.com/Welcome"/>
+        <id>https://test.korzh.com/blog/Welcome</id>
+        <link href="https://test.korzh.com/blog/Welcome"/>
         <updated>2023-04-14T00:00:00.000Z</updated>
         <author>
             <name>Serhii Korzh</name>
