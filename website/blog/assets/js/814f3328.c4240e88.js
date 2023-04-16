@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Using TypeScript with WebPack in ASP.NET Core projects","permalink":"/blog/2023/04/16/using-ts-wp-aspnet-core-proj"},{"title":"Welcome","permalink":"/blog/Welcome"}]}')}}]);
